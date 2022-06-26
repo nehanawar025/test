@@ -1,3 +1,3 @@
-# Hi I am Noshin Nawar Neha.
+# Hi I am Neha.
 
 # It is my very first time using git and github.
